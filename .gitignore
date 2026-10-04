@@ -1,0 +1,6 @@
+.venv
+Raisin_Dataset
+uv.lock
+
+__pycache__
+.python-version
